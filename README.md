@@ -38,7 +38,7 @@ The dashboard provides insights into how factors such as age, income, marital st
 
 ## Dashboard Preview
 
-![Dashboard Preview](images/dashboard-preview.png)
+![Dashboard Preview](images/dashboard.png)
 
 ---
 
